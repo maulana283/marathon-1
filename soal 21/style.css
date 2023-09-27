@@ -1,0 +1,15 @@
+section {
+  padding: 0 12px;
+}
+
+.btn {
+  color: #fff;
+  background-color: blue;
+  border: none;
+  padding: 4px 20px;
+  border-radius: 4px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  -o-border-radius: 4px;
+}
